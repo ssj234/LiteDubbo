@@ -50,13 +50,13 @@ System.out.println("rs is " + rs);
 
 ## 服务提供者发布服务流程
 
-![图1. 服务提供者发布服务流程](http://www.uxiaowo.com/dubbo/lite_provider.png)
+![图1. 服务提供者发布服务流程](http://wew.uxiaowo.com/dubbo/lite_provider.png)
 
 ## 服务引用者引用服务流程
 
-![图2. 服务引用者引用服务流程](http://www.uxiaowo.com/dubbo/lite_consumer.png)
+![图2. 服务引用者引用服务流程](http://wew.uxiaowo.com/dubbo/lite_consumer.png)
 
 ## 数据传输流程
 
-![图3. 数据传输流程](http://www.uxiaowo.com/dubbo/lite_transport.png)
+![图3. 数据传输流程](http://wew.uxiaowo.com/dubbo/lite_transport.png)
 
